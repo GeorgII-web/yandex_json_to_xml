@@ -1,0 +1,5 @@
+> offer: 100000010110
+Required field is empty 'apartment'
+Required field is empty 'yandexBuildingId'
+Required field is empty 'yandexHouseId'
+Required field is empty 'builtYear'
